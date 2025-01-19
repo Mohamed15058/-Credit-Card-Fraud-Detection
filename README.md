@@ -9,18 +9,18 @@ The dataset contains transactions made over a period of two days in September 20
 For many banks, retaining high profitable customers is the number one business goal. Banking fraud, however, poses a significant threat to this goal for different banks. In terms of substantial financial losses, trust and credibility, this is a concerning issue to both banks and customers alike.
 
 # Main challenges involved in credit card fraud detection are:
-1-Enormous Data is processed every day and the model build must be fast enough to respond to the scam in time.
-2-Imbalanced Data i.e most of the transactions (99.8%) are not fraudulent which makes it really hard for detecting the fraudulent ones
-3-Data availability as the data is mostly private.
-4-Misclassified Data can be another major issue, as not every fraudulent transaction is caught and reported.
-5-Adaptive techniques used against the model by the scammers.
+1-Enormous Data is processed every day and the model build must be fast enough to respond to the scam in time.   
+2-Imbalanced Data i.e most of the transactions (99.8%) are not fraudulent which makes it really hard for detecting the fraudulent ones   
+3-Data availability as the data is mostly private.    
+4-Misclassified Data can be another major issue, as not every fraudulent transaction is caught and reported.    
+5-Adaptive techniques used against the model by the scammers.    
 
 # How to tackle these challenges?
 
-1-The model used must be simple and fast enough to detect the anomaly and classify it as a fraudulent transaction as quickly as possible.
-2- Imbalance can be dealt with by properly using some methods like oversampling and undersampling but we used ensemble methods , It handle imbalanced data.
-3-A more trustworthy source must be taken which double-check the data, at least for training the model.
-4-We can make the model simple and interpretable so that when the scammer adapts to it with just some tweaks we can have a new model up and running to deploy.
+1-The model used must be simple and fast enough to detect the anomaly and classify it as a fraudulent transaction as quickly as possible.   
+2- Imbalance can be dealt with by properly using some methods like oversampling and undersampling but we used ensemble methods , It handle imbalanced data.    
+3-A more trustworthy source must be taken which double-check the data, at least for training the model.     
+4-We can make the model simple and interpretable so that when the scammer adapts to it with just some tweaks we can have a new model up and running to deploy     
 
 # Dataset:
 Click this DataSet Link 👉 https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
