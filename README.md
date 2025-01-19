@@ -29,7 +29,7 @@ The data set includes credit card transactions made by European cardholders over
 
 
 # Project Pipeline
-1- Import lib
+1- Import lib    
 2- Import data
 3- Data analysis & Visualization
 4- Data Preprocessing
